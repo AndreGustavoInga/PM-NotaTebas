@@ -1,0 +1,117 @@
+.fundo-acesso{
+    background-color: #F7F7F7;
+}
+
+.controle-acesso{
+    padding: 2rem 0;
+}
+
+.controle-dos-servicos{
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+    padding: 3rem 0 0;
+    border-bottom: 2px solid #363f497c;
+}
+
+.titulo-servicos{
+    width: 33%;
+    height: 75px;
+    margin-bottom: -2px;
+    border-radius: 10px 10px 0 0;
+    border: 2px solid #cccc;
+    border-bottom: none;
+}
+
+.titulo-servicos.active{
+    border: 2px solid #363f497c;
+    border-bottom: none;
+    background-color: #f7f7f7;
+}
+
+.titulo-servicos.active .acessibilidade-servicos{
+    color: #355070;
+}
+
+.acessibilidade-servicos{
+    width: 100%;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font: normal normal 900 17px/22px Segoe UI;
+    letter-spacing: 1.7px;
+    color: #CCCCCC;
+}
+
+.controle_servicos{
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(6, 1fr);
+    padding-top: 2rem;
+}
+
+.acesso-itens{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    align-items: center;
+    height: 115px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    flex-direction: column;
+    gap: 0.75rem;
+    border: 0.5px solid #CCCCCC;
+    border-radius: 7px;
+    padding: 0.5rem;
+    transition: all 0.8s;
+}
+
+.acesso-itens:hover{
+    transform: scale(1.03);
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+}
+
+.titulo-informacao{
+    font: normal normal 500 13px/15px Roboto;
+    color: #355070;
+}
+
+.tamanho-responsivo{
+    height: 35px;
+}
+
+@media (max-width: 1399px){
+    .controle_servicos{
+        grid-template-columns: repeat(5, 1fr);
+    }
+    .titulo-informacao {
+        text-align: center;
+        padding: 0 0.5rem;
+    }
+}
+
+@media (max-width: 991px){
+    .controle_servicos{
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+    }
+    .titulo-servicos {
+        height: 70px;
+    }
+}
+
+@media (max-width: 570px){
+    .controle_servicos{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .acessibilidade-servicos {
+        font: normal normal 900 10px / 10px Segoe UI;
+        letter-spacing: 1.4px;
+    }
+    .titulo-servicos {
+        height: 55px;
+    }
+    .titulo-informacao {
+        font: normal normal 500 11px / 15px Roboto;
+    }
+}

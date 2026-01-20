@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="11.234mm" height="8.5849mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10.93 8.35"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#355070;stroke-width:0.39;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3060213025824">
+   <g id="planosMunicipais">
+    <g id="Group_20" data-name="Group 20">
+     <polyline id="Path_663" class="fil0 str0" points="8.15,5.13 10.66,2.68 10,2.02 7.04,4.98 6.74,5.95 7.3,5.78 7.72,5.66 7.19,5.13 " data-name="Path 663"/>
+     <path id="Path_664" class="fil0 str0" d="M7.97 6.22l0 0.53c0,0.86 -0.47,1.41 -1.05,1.41l-3.89 0c-0.58,0 -1.05,-0.55 -1.05,-1.41l-0 -4.01" data-name="Path 664"/>
+     <polyline id="Path_665" class="fil0 str0" points="8.67,3.29 4.95,0.25 0.19,4.16 " data-name="Path 665"/>
+     <rect id="Rectangle_44" class="fil0 str0" x="4.07" y="4.48" width="1.85" height="1.84" data-name="Rectangle 44"/>
+    </g>
+    <line id="Path_6" class="fil0 str0" x1="2.12" y1="2.77" x2="7.92" y2= "2.77"  data-name="Path 6"/>
+   </g>
+  </g>
+ </g>
+</svg>

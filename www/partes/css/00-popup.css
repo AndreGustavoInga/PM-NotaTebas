@@ -1,0 +1,29 @@
+.fundo-popup{
+    padding-right: 0 !important;
+}
+
+.modal-content{
+    border: none; 
+    box-shadow: none;
+    background: transparent; 
+    text-align: center;
+}
+
+.img-responsive{
+    width: 100%; 
+    padding-top: 18px; 
+    padding-right: 18px;
+}
+
+.close{
+    font-size: 35px; 
+    color: #fff;
+    opacity: 1;
+    background-color: red !important; 
+    border-radius: 20px; 
+    width: 35px; 
+    height: 35px; 
+    position: absolute; 
+    right: 0; 
+    z-index: 1;
+}

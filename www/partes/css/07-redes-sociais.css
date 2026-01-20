@@ -1,0 +1,88 @@
+.fundo-redes{
+    background: #F7F7F7;
+    padding: 1rem 0;
+}
+
+.icones-rede{
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+    padding: 3rem 0 1rem;
+}
+
+.btn-rede{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: all 0.8s;
+}
+
+.btn-rede:hover{
+    transform: scale(1.08);
+}
+
+.icone-rede{
+    display: flex;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #355070;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-icone-rede-1{
+    width: 15px;
+}
+
+.img-icone-rede-2{
+    width: 25px;
+}
+
+.img-icone-rede-3{
+    width: 20px;
+}
+
+.txt-rede{
+    font: normal normal 900 16px/19px Roboto;
+    letter-spacing: 4.8px;
+    color: #355070;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+@media (max-width: 991px){
+    .icones-rede {
+        gap: 4rem;
+        padding-top: 2rem;
+    }
+}
+
+@media (max-width: 767px){
+    .icone-rede {
+        width: 50px;
+        height: 50px;
+    }
+    .img-icone-rede-1{
+        width: 10px;
+    }
+    .img-icone-rede-2{
+        width: 20px;
+    }
+    .img-icone-rede-3{
+        width: 15px;
+    }
+    .icones-rede {
+        gap: 2rem;
+    }
+    .txt-rede {
+        font: normal normal 900 13px / 19px Roboto;
+        letter-spacing: 2.8px;
+    }
+}
+
+@media (max-width: 550px){
+    .btn-rede{
+        flex-direction: column;
+    }
+}

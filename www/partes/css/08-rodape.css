@@ -1,0 +1,192 @@
+.controle-horario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem 0;
+}
+
+.txt-horario{
+    font: normal normal bold 11px/21px Roboto;
+    letter-spacing: 2.2px;
+    color: #363F49;
+    text-align: center;
+}
+
+.fundo-rodape{
+    background: #355070;
+}
+
+.controle-rodape{
+    display: flex;
+    padding: 1rem 0;
+    justify-content: space-between;
+    border-bottom: 1px solid #ffff;
+}
+
+.info-rodape{
+    display: flex;
+    gap: 1rem;
+}
+
+.item-rodape{
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.txt-icone{
+    font: normal normal normal 12px/15px Montserrat;
+    letter-spacing: 0.6px;
+    color: #FFFFFF;
+}
+
+.separador{
+    display: flex;
+    color: #ffff;
+    align-items: center;
+}
+
+.selo-rodape{
+    width: 77px;
+}
+
+.controle-ultima-att{
+    display: flex;
+    align-items: center;
+    padding: 1rem 0;
+    justify-content: space-between;
+}
+
+.mapa-site{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.txt-mapa{
+    font: normal normal normal 13px/15px Roboto;
+    letter-spacing: 1.95px;
+    color: #ffff;
+}
+
+.ultima-att{
+    color: #FFFFFF;
+    font: normal normal normal 12px/21px Roboto;
+}
+
+.selo-rodape-responsivo, .img-inga-responsivo{
+    display: none;
+}
+
+.img-logo-rodape, 
+.item-rodape,
+.mapa-site, 
+.img-inga-responsivo, 
+.img-inga{
+    transition: all 0.8s;
+}
+
+.img-logo-rodape:hover, 
+.item-rodape:hover,
+.mapa-site:hover, 
+.img-inga-responsivo:hover,
+.img-inga:hover{
+    transform: scale(1.06);
+}
+
+@media(max-width: 1599px){
+    .txt-icone {
+        letter-spacing: 0px;
+    }
+    .item-rodape {
+        gap: 0.5rem;
+    }
+    .separador{
+        display: none;
+    }
+    .logo-rodape, .icone-selo{
+        display: flex;
+        align-items: center;
+    }
+    .img-logo-rodape{
+        width: 350px;
+    }
+    .selo-rodape {
+        width: 60px;
+        height: 64px;
+    }
+}
+
+@media(max-width: 1399px){
+    .info-rodape {
+        flex-direction: column;
+    }
+    .controle-responsivo-info{
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media(max-width: 991px){
+    .selo-rodape-responsivo{
+        display: flex;
+        width: 60px;
+    }
+    .selo-rodape{
+        display: none;
+    }
+    .controle-rodape{
+        flex-direction: column;
+    }
+    .controle-responsivo-info{
+        display: flex;
+        justify-content: space-around;
+    }
+    .info-rodape {
+        flex-direction: row;
+        padding-top: 1rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media(max-width: 575px){
+    .img-inga-responsivo{
+        display: flex;
+    }
+    .img-inga{
+        display: none;
+    }
+    .controle-responsivo-footer{
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+    }
+    .controle-ultima-att{
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+}
+
+@media (max-width:476px){
+    .img-logo-rodape {
+        width: 300px;
+    }
+    .icone-rodape{
+        display: none;
+    }
+    .info-rodape {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+@media (max-width:420px){
+    .img-logo-rodape {
+        width: 250px;
+    }
+    .selo-rodape-responsivo {
+        width: 50px;
+    }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.737" height="29.642" viewBox="0 0 38.737 29.642">
+  <g id="mapa_do_site" data-name="mapa do site" transform="translate(1 1)">
+    <path id="Path_2798" data-name="Path 2798" d="M78.735,9.97h0A4.743,4.743,0,0,1,74,5.235h0A4.743,4.743,0,0,1,78.735.5h0A4.743,4.743,0,0,1,83.47,5.235h0A4.814,4.814,0,0,1,78.735,9.97Z" transform="translate(-60.367)" fill="none" stroke="#fff" stroke-width="3"/>
+    <path id="Path_2799" data-name="Path 2799" d="M78.735,106.07h0A4.743,4.743,0,0,1,74,101.335h0A4.743,4.743,0,0,1,78.735,96.6h0a4.743,4.743,0,0,1,4.735,4.735h0A4.814,4.814,0,0,1,78.735,106.07Z" transform="translate(-60.367 -78.928)" fill="none" stroke="#fff" stroke-width="3"/>
+    <path id="Path_2800" data-name="Path 2800" d="M152.235,106.07h0a4.743,4.743,0,0,1-4.735-4.735h0a4.743,4.743,0,0,1,4.735-4.735h0a4.743,4.743,0,0,1,4.735,4.735h0A4.814,4.814,0,0,1,152.235,106.07Z" transform="translate(-120.733 -78.928)" fill="none" stroke="#fff" stroke-width="3"/>
+    <path id="Path_2801" data-name="Path 2801" d="M5.235,106.07h0A4.743,4.743,0,0,1,.5,101.335h0A4.743,4.743,0,0,1,5.235,96.6h0a4.743,4.743,0,0,1,4.735,4.735h0A4.814,4.814,0,0,1,5.235,106.07Z" transform="translate(0 -78.928)" fill="none" stroke="#fff" stroke-width="3"/>
+    <path id="Path_2802" data-name="Path 2802" d="M27,75.577V73.237A1.537,1.537,0,0,1,28.537,71.7h23.3a1.537,1.537,0,0,1,1.537,1.537v2.341" transform="translate(-21.765 -58.478)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Line_1730" data-name="Line 1730" y2="2.662" transform="translate(18.422 10.024)" fill="none" stroke="#fff" stroke-width="3"/>
+    <line id="Line_1731" data-name="Line 1731" y2="3.609" transform="translate(18.422 14.062)" fill="none" stroke="#fff" stroke-width="3"/>
+  </g>
+</svg>

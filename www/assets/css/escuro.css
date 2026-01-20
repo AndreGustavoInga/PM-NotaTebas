@@ -1,0 +1,31 @@
+figure,
+div,
+.btn,
+.btn-default,
+.form,
+.form-control,
+.fa,
+.fa-home,
+.panel {
+    filter: grayscale(1);
+}
+
+section p,
+span,
+figcaption,
+ul>li>a,
+ul>li>a>ul>li>a,
+.acessibilidade,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+.text-info,
+p,
+label,
+strong {
+    color: #000000 !important;
+}

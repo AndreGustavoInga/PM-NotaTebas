@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.1646mm" height="7.9884mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5.73 5.61"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#355070;stroke-width:0.28;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3063002331680">
+   <g id="portalDoServidor">
+    <g id="Group_32" data-name="Group 32">
+     <g id="Group_581" data-name="Group 581">
+      <line id="Line_311" class="fil0 str0" x1="0.16" y1="3.61" x2="5.57" y2= "3.61"  data-name="Line 311"/>
+      <line id="Line_312" class="fil0 str0" x1="2.62" y1="4.08" x2="3.11" y2= "4.08"  data-name="Line 312"/>
+      <path id="Path_914" class="fil0 str0" d="M2.19 4.75l1.36 0c0.39,0 0.7,0.32 0.7,0.71 0,0 -0,0.01 -0,0.01l-2.76 0c0,-0 0,-0.01 0,-0.01 0,-0.39 0.31,-0.7 0.7,-0.71l-0 0z" data-name="Path 914"/>
+      <path id="Path_915" class="fil0 str0" d="M4.85 3.03l-3.97 0c-0.06,-0 -0.11,-0.05 -0.11,-0.11 0,-0 0,-0 0,-0l0 -1.95c0,-0 0,-0 0,-0 0,-0.06 0.05,-0.11 0.11,-0.11l3.97 0c0.06,0 0.11,0.05 0.11,0.11 0,0 0,0 0,0l0 1.95c0,0 0,0 0,0 0,0.06 -0.05,0.11 -0.11,0.11l0 0z" data-name="Path 915"/>
+      <line id="Line_313" class="fil0 str0" x1="1.69" y1="1.96" x2="4.17" y2= "1.96"  data-name="Line 313"/>
+      <line id="Line_314" class="fil0 str0" x1="1.69" y1="1.4" x2="4.17" y2= "1.4"  data-name="Line 314"/>
+      <line id="Line_315" class="fil0 str0" x1="1.69" y1="2.5" x2="4.17" y2= "2.5"  data-name="Line 315"/>
+      <path id="Path_916" class="fil0 str0" d="M4.89 0.14l-4.06 0c-0.39,0 -0.7,0.32 -0.7,0.71 0,0 0,0.01 0,0.01l0 2.91c0,0.39 0.31,0.82 0.7,0.82l4.06 0c0.39,0 0.7,-0.43 0.7,-0.82l0 -2.91c0,-0 0,-0.01 0,-0.01 0,-0.39 -0.31,-0.7 -0.7,-0.71z" data-name="Path 916"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

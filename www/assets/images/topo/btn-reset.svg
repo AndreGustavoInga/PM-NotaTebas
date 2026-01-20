@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.31" height="34.31" viewBox="0 0 34.31 34.31">
+  <g id="Group_3599" data-name="Group 3599" transform="translate(1.5 1.5)">
+    <ellipse id="Ellipse_137" data-name="Ellipse 137" cx="15.655" cy="15.655" rx="15.655" ry="15.655" fill="none" stroke="#fff" stroke-width="3"/>
+    <g id="Group_3593" data-name="Group 3593" transform="translate(7.206 7.207)">
+      <path id="Path_5939" data-name="Path 5939" d="M355.034-219.611l.787,1.825a6.057,6.057,0,0,1-1.65-4.142,6.077,6.077,0,0,1,6.07-6.07,6.107,6.107,0,0,1,5.473,3.443l1.443-.695a7.716,7.716,0,0,0-6.916-4.35,7.68,7.68,0,0,0-7.671,7.671,7.667,7.667,0,0,0,3.155,6.2l-2.7,1.161,2.142.852,3.526-1.519-1.519-3.526Z" transform="translate(-352.57 229.599)" fill="#fff"/>
+      <path id="Path_5940" data-name="Path 5940" d="M369.686-212.748l-1.915-1.914h5.2v-1.6h-5.2l1.915-1.914h-2.305l-2.715,2.715,2.715,2.715Z" transform="translate(-358.209 224.275)" fill="#fff"/>
+      <path id="Path_5941" data-name="Path 5941" d="M373.854-209.393h-2.305l1.915,1.914h-5.2v1.6h5.2l-1.915,1.914h2.305l2.715-2.715Z" transform="translate(-359.887 220.179)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

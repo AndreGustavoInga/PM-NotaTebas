@@ -34,7 +34,7 @@
             <div class="conteudo-modal modal-content">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <a href="<?= $valor_popup['link'] != "" ? $valor_popup['link'] : "#" ?>" target="_blank">
-                    <img src="<?= $CAMINHOIMG ?>/<?= $valor_popup['foto'] ?>" class="img-responsive">
+                    <img src="<?= $CAMINHOIMG ?>/<?= $valor_popup['foto'] ?>" class="img-popup">
                 </a>
             </div>
         </div>
